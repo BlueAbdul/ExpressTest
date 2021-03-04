@@ -1,0 +1,14 @@
+{
+  "name": "express-test",
+  "version": "1.0.0",
+  "description": "quick test",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "author": "Abdul",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
